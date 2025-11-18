@@ -41,7 +41,7 @@ const Contact = () => {
             LinkedIn
           </a>
           <a
-            href="https://github.com/ulrichpineiro"
+            href="https://github.com/Ulrich56"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300"
